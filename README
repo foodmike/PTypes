@@ -1,3 +1,7 @@
+PTypes 2.1.1
+
 PTypes is a simple alternative to the STL that includes multithreading and networking. It defines dynamic strings, character sets, lists and other basic data types along with threads, synchronization primitives, named pipes and IP sockets.
 
 The author of PTypes is Hovik Melikyan.  More info available at http://www.melikyan.com/ptypes/.
+
+See http://www.melikyan.com/ptypes/doc/compiling.html for compiling instructions.
